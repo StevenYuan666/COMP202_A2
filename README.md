@@ -17,6 +17,6 @@ Finally, there is another decade to represent the most common punctuation, where
 
 ![image](https://user-images.githubusercontent.com/68981504/148474205-b7b36247-0c68-49a9-b4ff-a2a7ba24d9dd.png)
 
-Finally, for this assignment, there are six more important characters in French to know about which do not follow the decade pattern. Note the capital symbol in French Braille is different from the English Braille one in the video.
+Finally, there are six more important characters in French to know about which do not follow the decade pattern. Note the capital symbol in French Braille is different from the English Braille one in the video.
 
 ![image](https://user-images.githubusercontent.com/68981504/148474223-2ae88d7a-711b-4491-a095-9279e20918c2.png)
